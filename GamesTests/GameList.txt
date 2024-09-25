@@ -1,0 +1,36 @@
+----------------------------------------------------
+Title:Breath Of The Wild
+Description:jiqml
+Platform: NSW
+Platform Description:Nintendo Switch
+Store: AMAZON
+Store description: amazon kkj
+Media Format:digital
+Launcher: nsw
+Launcher description: aaaa
+Aquired date: 2022-03-07
+Price: 49.99
+----------------------------------------------------
+Title: Metroid Prime
+Description:jiqmxsxxl
+Platform: NSW
+Store: eshop
+Store description:nintendo  kkj
+Media Format:digital
+Launcher: nsw
+Aquired date: 2021-03-07
+Price: 39.99
+----------------------------------------------------
+Title:Breath Of The Wild: Expansion pass
+Main Title:Breath Of The Wild
+Description:jisaasqml
+Platform: NSW
+Store: eshop
+Media Format: Digital
+Launcher: nsw
+Aquired date: 2022-03-07
+Price: 19.99
+----------------------------------------------------
+
+
+

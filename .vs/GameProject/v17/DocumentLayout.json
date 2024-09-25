@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\mediaformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\mediaformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\mediaformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\mediaformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\maingamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\maingamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\invaliddlcexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\invaliddlcexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\gametransactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\gametransactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\gameimportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\gameimportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\gameimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\gameimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\dlcalreadyaddedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\dlcalreadyaddedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gamestests\\gamelist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|solutionrelative:gamestests\\gamelist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gamestests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|solutionrelative:gamestests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\gametransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\gametransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gamestests\\gamestests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80C4EF07-BB7C-4B82-AAA4-AEDA69AEEE41}|GamesTests\\GamesTests.csproj|solutionrelative:gamestests\\gamestests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|c:\\users\\mattia.foglia\\source\\repos\\gameproject\\gameproject\\gameproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87718757-D4EB-46AB-8B4D-A73BC45F6EF2}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\gameproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameImportException.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameImportException.cs",
+              "RelativeDocumentMoniker": "GameProject\\GameImportException.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameImportException.cs",
+              "RelativeToolTip": "GameProject\\GameImportException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:12:59.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameTransactionsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameTransactionsRepository.cs",
+              "RelativeDocumentMoniker": "GameProject\\GameTransactionsRepository.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameTransactionsRepository.cs",
+              "RelativeToolTip": "GameProject\\GameTransactionsRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:24:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameImportDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameImportDto.cs",
+              "RelativeDocumentMoniker": "GameProject\\GameImportDto.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameImportDto.cs",
+              "RelativeToolTip": "GameProject\\GameImportDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:38:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "invalidDlcException.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\invalidDlcException.cs",
+              "RelativeDocumentMoniker": "GameProject\\invalidDlcException.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\invalidDlcException.cs",
+              "RelativeToolTip": "GameProject\\invalidDlcException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:06:03.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Launcher.cs",
+              "RelativeDocumentMoniker": "GameProject\\Launcher.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Launcher.cs",
+              "RelativeToolTip": "GameProject\\Launcher.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:03:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainGameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MainGameNotFoundException.cs",
+              "RelativeDocumentMoniker": "GameProject\\MainGameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MainGameNotFoundException.cs",
+              "RelativeToolTip": "GameProject\\MainGameNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:29:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediaFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MediaFormat.cs",
+              "RelativeDocumentMoniker": "GameProject\\MediaFormat.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MediaFormat.cs",
+              "RelativeToolTip": "GameProject\\MediaFormat.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:41:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MediaFormatException.cs",
+              "RelativeDocumentMoniker": "GameProject\\MediaFormatException.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\MediaFormatException.cs",
+              "RelativeToolTip": "GameProject\\MediaFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:35:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Platform.cs",
+              "RelativeDocumentMoniker": "GameProject\\Platform.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Platform.cs",
+              "RelativeToolTip": "GameProject\\Platform.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wB8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:05:25.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Game.cs",
+              "RelativeDocumentMoniker": "GameProject\\Game.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Game.cs",
+              "RelativeToolTip": "GameProject\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:02:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Extensions.cs",
+              "RelativeDocumentMoniker": "GameProject\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Extensions.cs",
+              "RelativeToolTip": "GameProject\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:03:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DlcAlreadyAddedException.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\DlcAlreadyAddedException.cs",
+              "RelativeDocumentMoniker": "GameProject\\DlcAlreadyAddedException.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\DlcAlreadyAddedException.cs",
+              "RelativeToolTip": "GameProject\\DlcAlreadyAddedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:12:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameList.txt",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\GameList.txt",
+              "RelativeDocumentMoniker": "GamesTests\\GameList.txt",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\GameList.txt",
+              "RelativeToolTip": "GamesTests\\GameList.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-10T08:04:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GamesTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\UnitTest1.cs",
+              "RelativeToolTip": "GamesTests\\UnitTest1.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAuwGEBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:51:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameTransaction.cs",
+              "RelativeDocumentMoniker": "GameProject\\GameTransaction.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameTransaction.cs",
+              "RelativeToolTip": "GameProject\\GameTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:06:12.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Store.cs",
+              "RelativeDocumentMoniker": "GameProject\\Store.cs",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\Store.cs",
+              "RelativeToolTip": "GameProject\\Store.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:06:02.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GamesTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\GamesTests.csproj",
+              "RelativeDocumentMoniker": "GamesTests\\GamesTests.csproj",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GamesTests\\GamesTests.csproj",
+              "RelativeToolTip": "GamesTests\\GamesTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T07:05:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameProject.csproj",
+              "RelativeDocumentMoniker": "GameProject\\GameProject.csproj",
+              "ToolTip": "C:\\Users\\Mattia.Foglia\\source\\repos\\GameProject\\GameProject\\GameProject.csproj",
+              "RelativeToolTip": "GameProject\\GameProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T07:21:22.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
